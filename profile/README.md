@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-black-text-transparent.jpg#gh-light-mode-only" 
        alt="echo-IA logo (light)" width="200">
   <!-- Dark mode -->
-  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-white-text-opaque.jpg#gh-dark-mode-only" 
+  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-white-text-transparent.jpg#gh-dark-mode-only" 
        alt="echo-IA logo (dark)" width="200">
 </p>
 
