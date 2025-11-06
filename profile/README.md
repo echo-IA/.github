@@ -1,11 +1,12 @@
 <p align="center">
   <!-- Light mode -->
-  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-black-text-transparent.png#gh-light-mode-only" 
+  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/png/256/echoia_logo-black-text-transparent.png#gh-light-mode-only"
        alt="echo-IA logo (light)" width="200">
   <!-- Dark mode -->
-  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-white-text-transparent.png#gh-dark-mode-only" 
+  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/png/256/echoia_logo-white-text-transparent.png#gh-dark-mode-only"
        alt="echo-IA logo (dark)" width="200">
 </p>
+
 
 # Welcome to **echo-IA**
 
