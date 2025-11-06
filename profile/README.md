@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="../assets/echoia_logo_black_text.png" alt="echo-IA logo" width="200">
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-black-text-transparent.jpg#gh-light-mode-only" 
+       alt="echo-IA logo (light)" width="200">
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/echo-IA/echoia-logo/main/jpg/256/echoia_logo-white-text-opaque.jpg#gh-dark-mode-only" 
+       alt="echo-IA logo (dark)" width="200">
 </p>
 
 # Welcome to **echo-IA**
