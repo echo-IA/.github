@@ -24,28 +24,28 @@ Visit our website: **[echo-ia.org](https://echo-ia.org)**
 
 ---
 
-## <img src="../assets/echoia_logo_32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> Quick links
+## <img src="https://github.com/echo-IA/echoia-logo/blob/main/favicons/favicon-32x32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> Quick links
 - [About](https://echo-ia.org/about/)
 - [Meetings](https://echo-ia.org/meetings/)
 - [Contact](https://echo-ia.org/contact/)
 
 ---
 
-## <img src="../assets/echoia_logo_32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> What we do
+## <img src="https://github.com/echo-IA/echoia-logo/blob/main/favicons/favicon-32x32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> What we do
 - **Collaboration**: bring together researchers, codes, and datasets across surveys and methods  
 - **Integration**: develop shared tools and standards to make IA results directly comparable  
 - **Support**: build infrastructure that helps teams collaborate and advance a unified view of intrinsic alignments
 
 ---
 
-## <img src="../assets/echoia_logo_32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> Get involved
+## <img src="https://github.com/echo-IA/echoia-logo/blob/main/favicons/favicon-32x32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> Get involved
 - Open a PR to add a catalog or tool following our submission guide  
 - Join a working call (see [Meetings](https://echo-ia.org/meetings/))  
 - Start a discussion in the org or file an issue in [`echoia-hub`](https://github.com/echo-IA/echoia-hub)
 
 ---
 
-## <img src="../assets/echoia_logo_32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> Citation
+## <img src="https://github.com/echo-IA/echoia-logo/blob/main/favicons/favicon-32x32.png" width="20" style="vertical-align: middle; margin-right: 4px;"> Citation
 If the **echo-IA** collaboration supported or informed your research, please include this acknowledgment:
 
 > This work benefited from the resources and support provided by the *echo-IA* collaboration ([https://echo-ia.org](https://echo-ia.org)).
