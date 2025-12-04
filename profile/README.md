@@ -19,7 +19,7 @@ Through shared standards and open infrastructure, we aim to accelerate progress 
 
 ---
 
-Visit our website: **[echo-ia.org](https://echo-ia.org)**
+Visit our website: **[echoia.org](https://echoia.org)**
 ---
 
 ---
